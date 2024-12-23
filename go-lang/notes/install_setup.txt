@@ -1,0 +1,2 @@
+1) Download and install go compiler https://go.dev/doc/install
+2) Install go extension in VS code (for prettifying syntax) - 'Go'

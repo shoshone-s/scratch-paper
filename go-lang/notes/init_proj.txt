@@ -1,0 +1,8 @@
+1) Open project path in terminal
+2) Run 'go mod init <module/name of project path>'
+3) All code must belong to a package; first statement in Go file must be 'package...'
+4) Need to declare an entrypoint for the compiler (This will be the main function Go will look for when executing the app)
+    - Can only have 1 main function per app
+    - Executing logic needs to be within main func
+    - To see which functions are available from which packages, you'll need to look them up and read the docs
+5) Execute the file with 'go run <file name>'
